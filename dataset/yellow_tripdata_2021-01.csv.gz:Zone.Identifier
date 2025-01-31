@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/DataTalksClub/nyc-tlc-data/releases/tag/yellow
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/513814948/f6895842-79e6-4a43-9458-e5b0b454a340?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250131T055358Z&X-Amz-Expires=300&X-Amz-Signature=309921cf3f77508a71668adc5461b9820e042fd9a9be04ae8ea47db05662fb38&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyellow_tripdata_2021-01.csv.gz&response-content-type=application%2Foctet-stream
