@@ -21,7 +21,7 @@ docker run -it \
       -e POSTGRES_DB="ny_taxi" \
       -v "/home/vivek/de_zoomcamp_2025/ny_taxi_prostgres_data:/var/lib/postgresql/data:rw" \
       -p 5432:5432 \
-      --network=pg-network2 \
+      --network=pg-network2 \ 
       --name pg-database \
       postgres:13
 ```
